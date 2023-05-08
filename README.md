@@ -10,7 +10,7 @@ Desde mi infancia, me llamo la atención todo lo relacionado con la informática
 - Realizar proyectos para reforzar mis conocimientos.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
 
-__
+___
 
 
 
