@@ -9,12 +9,15 @@ Desde mi infancia, me llamo la atención todo lo relacionado con la informática
 - Reforzar conocimientos sobre React y nuevas tecnologías.
 - Realizar proyectos para reforzar mis conocimientos.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-_
+
+__
 
 
 
 #### Tengo conocimientos sobre:
 
 <p>
+  <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
