@@ -9,7 +9,7 @@ Desde mi infancia, me llamo la atención todo lo relacionado con la informática
 - Reforzar conocimientos sobre React y nuevas tecnologías.
 - Realizar proyectos para reforzar mis conocimientos.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-___
+_
 
 
 
