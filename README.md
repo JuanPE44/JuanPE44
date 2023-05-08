@@ -1,4 +1,5 @@
 ### ¡Hola! Soy Juan 👋
+#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 
 Desde mi infancia, me llamo la atención todo lo relacionado con la informática y programación. Esto me llevó a estudiar programación en una escuela técnica, y también a desarrollar habilidades autodidactas en el campo del desarrollo web. Disfruto trabajando en equipo y siempre estoy dispuesto a aprender cosas nuevas. Además de la programación, tengo otros hobbies como la fotografía, el fútbol y los videojuegos, que me ayudan a desarrollar habilidades en diferentes áreas.
 
@@ -7,9 +8,8 @@ Desde mi infancia, me llamo la atención todo lo relacionado con la informática
 
 
 - Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
+- Realizar proyectos para reforzar mis conocimientos.
 ___
 
 
