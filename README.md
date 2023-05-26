@@ -6,14 +6,14 @@
 </p>
 <br>
 
-#### Actualmente me dedico a:
+<h4 align="left">Actualmente me dedico a:</h4>
 
 - Reforzar conocimientos sobre React, node js y nuevas tecnologías.
 - Realizar proyectos para reforzar mis conocimientos.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
 <br><br>
 
-#### Lenguajes:
+<h5 align="left">Lenguajes</h5>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-### Frameworks y librerias:
+<h5 align="left">Frameworks y librerias</h5>
+
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
