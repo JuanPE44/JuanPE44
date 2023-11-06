@@ -8,7 +8,7 @@
 
 <h4 align="left">Actualmente me dedico a:</h4>
 
-- Reforzar conocimientos sobre React, node js y nuevas tecnologías.
+- Reforzar conocimientos sobre next js, node js y nuevas tecnologías.
 - Realizar proyectos para poner en practica mis conocimientos.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
 <br><br>
