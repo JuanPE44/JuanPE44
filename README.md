@@ -2,16 +2,12 @@
 <h1 align="center" width="20px">Hola! Soy Juan 👋</h1>
 <br>
 <p align="justify">
-  Programador autodidacta, desarrollador Frontend apasionado por el diseño
+  
 </p>
+  Estudiante de ingeniera en sistemas. Actualmente me dedico a colaborar en distintos proyectos como freelance, donde participo tanto en el diseño como en el desarrollo de soluciones a distintas problematicas o necesidades. 
 <br>
 
-<h4 align="left">Actualmente me dedico a:</h4>
 
-- Reforzar conocimientos sobre next js, node js y nuevas tecnologías.
-- Realizar proyectos para poner en practica mis conocimientos.
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-<br><br>
 
 <h5 align="left">Lenguajes</h5>
 
