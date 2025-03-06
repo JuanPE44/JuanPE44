@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juan
 
 ## 🚀 Sobre mí
-Hola! Soy Juan, estudiante de **Ingeniería en Sistemas** en Tandil, Buenos Aires, y **Desarrollador Frontend freelance**. Me apasiona la creación de interfaces atractivas y funcionales, optimizando el rendimiento y la experiencia de usuario.
+Soy estudiante de **Ingeniería en Sistemas** en Tandil, Buenos Aires, y **Desarrollador Frontend freelance**. Me apasiona la creación de interfaces atractivas y funcionales, optimizando el rendimiento y la experiencia de usuario.
 
 ## 🛠️ Tecnologías y Herramientas
 
