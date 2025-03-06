@@ -19,8 +19,8 @@ Soy estudiante de **Ingeniería en Sistemas** en Tandil, Buenos Aires, y **Desar
 
 
 ## 📫 Contacto
-- 💼 [LinkedIn](https://juanpenalba.vercel.app) 
-- 🌐 [Portafolio](https://www.linkedin.com/in/juan-peñalba-0025b6246/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-peñalba-0025b6246/) 
+- 🌐 [Portafolio](https://juanpenalba.vercel.app)
 - 📩 [Email](mailto:juantandil123@gmail.com) 
 ---
 ¡Gracias por visitar mi perfil! 😊🚀
