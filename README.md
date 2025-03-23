@@ -4,12 +4,17 @@ Estudiante de **Ingeniería en Sistemas** en Tandil, Buenos Aires, y **Desarroll
 
 ### 📌 Tecnologías
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,java" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro" alt="Tecnologías" />
 </div>
 
 ### 🔧 Herramientas
 <div >
   <img src="https://skillicons.dev/icons?i=git,github,figma,notion,vscode,vite,vercel" alt="Herramientas" />
+</div>
+
+### 📚 Aprendiendo
+<div >
+  <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,nextjs" alt="Aprendiendo" />
 </div>
 
 
