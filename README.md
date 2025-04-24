@@ -12,7 +12,7 @@ Trabajo principalmente con tecnologías web y herramientas modernas de desarroll
 
 ### 🔧 Herramientas
 <div >
-  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,notion,vscode,vite,vercel" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,obsidian,vscode,vite,vercel" alt="Herramientas" />
 </div>
 
 
