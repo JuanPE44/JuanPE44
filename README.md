@@ -32,9 +32,19 @@ Trabajo principalmente con tecnologías web y herramientas modernas de desarroll
 ### 📊 Stats
 
 <div align="center">
+  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=JuanPE44&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <br />
+  <br /><br />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanPE44&theme=github_dark" alt="GitHub Streak" />
+  <br /><br />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPE44&layout=compact&theme=github_dark" alt="Top Langs" />
+
 </div>
+
 
 
