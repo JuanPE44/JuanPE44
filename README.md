@@ -6,19 +6,19 @@ Trabajo principalmente con tecnologías web y herramientas modernas de desarroll
 
 ### 📌 Tecnologías
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,nextjs" alt="Tecnologías" />
 </div>
 
 
 ### 🔧 Herramientas
 <div >
-  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,obsidian,vscode,vite,vercel" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,notion,vscode,vite,vercel,jira" alt="Herramientas" />
 </div>
 
 
 ### 📚 Actualmente aprendiendo
 <div >
-  <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,nextjs" alt="Aprendiendo" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,nodejs" alt="Aprendiendo" />
 </div>
 
 
