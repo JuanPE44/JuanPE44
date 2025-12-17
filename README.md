@@ -1,33 +1,23 @@
-# 👋 ¡Hola! Soy Juan
+# 👋 Hi, I'm Juan
 
-Soy **Desarrollador Frontend freelance** y estudiante de **Ingeniería en Sistemas** en Tandil, Buenos Aires. Me apasiona crear interfaces modernas, atractivas y funcionales, priorizando siempre el rendimiento y la experiencia de usuario.  
-Trabajo principalmente con tecnologías web y herramientas modernas de desarrollo.
+I'm a **Fullstack Developer** and **Systems Engineering student** based in Tandil, Buenos Aires 🇦🇷.  
+I currently work at **Chabit** as a **Fullstack Developer**, building scalable and modern web solutions.
 
+I enjoy collaborating on **open source projects**, designing clean architectures, and turning ideas into solid, production-ready products. I have experience working across the full stack, from UI/UX-focused frontends to backend services and APIs.
 
-### 📌 Tecnologías
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,nextjs" alt="Tecnologías" />
-</div>
+### 🛠 Tech Stack
+- **Languages:** Go, TypeScript, JavaScript  
+- **Frontend:** React, Astro, Tailwind  
+- **Backend:** NestJS, Node.js  
+- **Databases:** SQL / lightweight databases for scalable systems  
+- **Other:** Git, REST APIs, clean architecture principles
 
+### 🌐 Web3 & Blockchain
+I'm currently diving into the **Web3 ecosystem**, learning **Solidity** and exploring **Ethereum smart contract development**, with a strong interest in decentralized applications (dApps) and blockchain-based products.
 
-### 🔧 Herramientas
-<div >
-  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,notion,vscode,vite,vercel,jira" alt="Herramientas" />
-</div>
-
-
-### 📚 Actualmente aprendiendo
-<div >
-  <img src="https://skillicons.dev/icons?i=java,cpp,nodejs" alt="Aprendiendo" />
-</div>
-
-
-### 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-peñalba-0025b6246/)  
-- 🌐 [Portafolio](https://juanpenalba.vercel.app)  
-- 📩 [Email](mailto:juantandil123@gmail.com)
-
-
-
-
+### 🚀 What I'm interested in
+- Open source collaboration  
+- Fullstack product development  
+- Scalable and maintainable architectures  
+- Web performance & developer experience  
+- Web3, smart contracts & decentralized systems
