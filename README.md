@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juan
 
-I'm a **Fullstack Developer** and **Systems Engineering student** based in Tandil, Buenos Aires 🇦🇷.  
-I currently work at **Chabit** as a **Fullstack Developer**, building scalable and modern web solutions.
+I'm a **Software Developer** and **Systems Engineering student** based in Tandil, Buenos Aires 🇦🇷.  
+I currently work at **Chabit** as a **Frontend Developer**, building scalable and modern web solutions.
 
 I enjoy collaborating on **open source projects**, designing clean architectures, and turning ideas into solid, production-ready products. I have experience working across the full stack, from UI/UX-focused frontends to backend services and APIs.
 
@@ -17,7 +17,7 @@ I'm currently diving into the **Web3 ecosystem**, learning **Solidity** and expl
 
 ### What I'm interested in
 - Open source collaboration  
-- Fullstack product development  
+- Backend product development  
 - Scalable and maintainable architectures  
 - Web performance & developer experience  
 - Web3, smart contracts & decentralized systems
