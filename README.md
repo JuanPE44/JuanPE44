@@ -3,7 +3,7 @@
 I'm a **Software Developer** and **Systems Engineering student** based in Tandil, Buenos Aires 🇦🇷.  
 I currently work at **Chabit** as a **Frontend Developer**, building scalable and modern web solutions.
 
-I enjoy collaborating on **open source projects**, designing clean architectures, and turning ideas into solid, production-ready products. I have experience working across the full stack, from UI/UX-focused frontends to backend services and APIs.
+I enjoy collaborating on open source projects and turning ideas into solid, production-ready solutions. I have experience working across the full stack, from UI/UX-focused frontends to backend services and APIs.
 
 ### Tech Stack
 - **Languages:** Go, TypeScript, JavaScript  
