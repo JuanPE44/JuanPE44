@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juan
 
 I'm a **Software Developer** and **Systems Engineering student** based in Tandil, Buenos Aires 🇦🇷.  
-I currently work at **Chabit** as a **Frontend Developer**, building scalable and modern web solutions.
+I currently work at **Chabit** as a **Software Developer**, building scalable and modern web solutions.
 
 I enjoy collaborating on open source projects and turning ideas into solid, production-ready solutions. I have experience working across the full stack, from UI/UX-focused frontends to backend services and APIs.
 
