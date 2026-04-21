@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuanPE44/JuanPE44/main/mountains_banner.jpg" alt="Tandil, Buenos Aires" width="100%" />
+</p>
+
 # 👋 Hi, I'm Juan
 
 I'm a **Software Developer** and **Systems Engineering student** based in Tandil, Buenos Aires 🇦🇷.  
